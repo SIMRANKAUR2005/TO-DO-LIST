@@ -1,0 +1,12 @@
+.container {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
